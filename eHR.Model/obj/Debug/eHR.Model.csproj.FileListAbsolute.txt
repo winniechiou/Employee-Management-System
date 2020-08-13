@@ -1,0 +1,26 @@
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Model\bin\Debug\eHR.Model.dll
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Model\bin\Debug\eHR.Model.pdb
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Model\obj\Debug\eHR.Model.csprojResolveAssemblyReference.cache
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Model\obj\Debug\eHR.Model.dll
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Model\obj\Debug\eHR.Model.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Model\bin\Debug\eHR.Model.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Model\bin\Debug\eHR.Model.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Model\obj\Debug\eHR.Model.csprojResolveAssemblyReference.cache
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Model\obj\Debug\eHR.Model.csproj.CoreCompileInputs.cache
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Model\obj\Debug\eHR.Model.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Model\obj\Debug\eHR.Model.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Model\bin\Debug\eHR.Model.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Model\bin\Debug\eHR.Model.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Model\obj\Debug\eHR.Model.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Model\obj\Debug\eHR.Model.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Model\obj\Debug\eHR.Model.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Model\bin\Debug\eHR.Model.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Model\bin\Debug\eHR.Model.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Model\obj\Debug\eHR.Model.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Model\obj\Debug\eHR.Model.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Model\obj\Debug\eHR.Model.pdb
+C:\Users\Queye\Desktop\NewHR!\eHR.Model\bin\Debug\eHR.Model.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Model\bin\Debug\eHR.Model.pdb
+C:\Users\Queye\Desktop\NewHR!\eHR.Model\obj\Debug\eHR.Model.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\NewHR!\eHR.Model\obj\Debug\eHR.Model.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Model\obj\Debug\eHR.Model.pdb

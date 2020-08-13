@@ -1,0 +1,553 @@
+﻿<h2>員工資料查詢</h2>
+<div class="form-horizontal">
+
+    <div class="form-group">
+        <label class="control-label col-md-2">員工編號</label>
+        <div class="col-md-10">
+            <input id="employeeID" class="form-control" type="number"/>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">員工姓名</label>
+        <div class="col-md-10">
+            <input id="employeeName" class="form-control" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">職稱</label>
+        <div class="col-md-10">
+            <select id="positionName" class="form-control"></select>
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        <label class="control-label col-md-2">任職日期</label>
+        <div class="col-md-10">
+            <input type="text" id="jobTenuresStart" class="form-control" />
+            <label>~</label>
+            <input type="text" id="jobTenureEnd" class="form-control"/>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-2">
+        </div>
+        <div class="col-md-10">
+            <button id="searchBtn" class="btn btn-primary">查詢</button>
+            <button id="claenBtn" class="btn btn-primary">清除</button>
+            <button id="addBtnInIndex" class="btn btn-primary">新增員工</button>
+        </div>
+    </div>
+
+    <div id="employeeGrid"></div>
+</div>
+
+
+<div id="windowUpdate" style="display:none">
+
+    <div class="form-group" >
+        <label class="control-label col-md-2" id="labelId">編號</label>
+        <div class="col-md-10">
+            <input id="employeeIDForWindow"  type="text" class="form-control" style="width: 80%;height:auto"  data-val-length-max="200" readonly="readonly"/>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><span style="color:red;">* </span>姓名(First Name)</label>
+        <div style="display:inline-block;">
+            <input id="employeeFirstNameForWindow" name="employeeFirstNameForWindow" type="text" class="form-control" style="width: 75%;height:auto" required="required" data-val-length-max="10" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2"><span style="color:red;">* </span>姓名(Last Name)</label>
+        <div style="display:inline-block;">
+            <input id="employeeLastNameForWindow" name="employeeLastNameForWindow"type="text" class="form-control" style="width: 65%;height:auto" required="required" data-val-length-max="20" />
+        </div>
+    </div>
+
+    <div class="form-group"">
+        <label class="control-label col-md-2"><span style="color:red;">* </span>職稱</label>
+        <div style="display:inline-block;">
+            <input id="positionNameForWindow" name="positionNameForWindow" class="form-control" required="required"></input>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">稱謂</label>
+        <div style="display:inline-block;">
+            <input id="titleOfCourtesyForWindow" type="text" class="form-control" style="width: 100%;height:auto"  data-val-length-max="25" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">任職日期</label>
+        <div style="display:inline-block;">
+            <input id="jobTenuresForWindow" type="text" class="form-control" style="width: 100%;height:auto" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">生日</label>
+        <div style="display:inline-block;">
+            <input id="birthdayForWindow" type="text" class="form-control" style="width: 100%;height:auto" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">國家</label>
+        <div style="display:inline-block;">
+            <input id="countryForWindow" type="text" class="form-control" style="width: 100%;height:auto"  />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">城市</label>
+        <div style="display:inline-block;">
+            <input id="cityForWindow" type="text" class="form-control" style="width: 100%;height:auto" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">地址</label>
+        <div style="display:inline-block;">
+            <input id="addressForWindow" type="text"  class="form-control" style="width: 100%;height:auto" data-val-length-max="60"  />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">電話</label>
+        <div style="display:inline-block;">
+            <input id="phoneNumberForWindow" type="text"  class="form-control" style="width: 100%;height:auto" data-val-length-max="24" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">性別</label>
+        <div style="display:inline-block;">
+            <input id="genderForWindow" type="text"  class="form-control" style="width: 100%;height:auto" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">直屬主管</label>
+        <div style="display:inline-block;">
+            <input id="supervisorForWindow" type="text"  class="form-control" style="width: 100%;height:auto"/>
+        </div>
+    </div>
+ 
+    <div class="form-group">
+        <label class="control-label col-md-2">月薪</label>
+        <div style="display:inline-block;">
+            <input id="monthlySalaryForWindow" type="number" value="" class="form-control" style="width: 100%;height:auto" onchange="Calculateyearlysalary(this.value)"  />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2">年薪</label>
+        <div style="display:inline-block;">
+            <input id="yearlySalaryForWindow" type="number" value="" class="form-control" style="width: 100%;height:auto"  />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <button id="saveBtnInWindow" class="btn btn-primary">存檔</button>
+            <button id="deleteBtnInWindow" class="btn btn-primary">刪除</button>
+            <button id="addBtnInWindow" class="btn btn-primary">新增</button>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+
+    $(document).ready(function () {
+
+
+
+        //------------------------index------------------------
+        GetDropDownList("#positionName", { type: "TITLE" }, "GetDropDownListDataForPosition");
+
+       // GetDropDownList("#bookClass", { type: "" }, "GetDropDownListDataForClass");
+
+
+        $("#searchBtn").kendoButton({
+            click: SearchEmployee
+        });
+        
+        $("#claenBtn").kendoButton({
+            click: function (e) {
+                window.location.href = "/Employee/Index";
+            }
+        });
+
+        $("#jobTenuresStart").kendoDatePicker({
+            format: "yyyy/MM/dd",
+            dateInput: true
+        });
+
+        $("#jobTenureEnd").kendoDatePicker({
+            format: "yyyy/MM/dd",
+            dateInput: true
+        });
+
+
+
+
+        //------------------------update------------------------
+
+
+       
+
+        GetDropDownList("#positionNameForWindow", { type: "TITLE" }, "GetDropDownListDataForPosition");
+        GetDropDownList("#countryForWindow", { type: "COUNTRY" }, "GetDropDownListDataForPosition");
+        GetDropDownList("#cityForWindow", { type: "CITY" }, "GetDropDownListDataForPosition");
+        GetDropDownList("#genderForWindow", { type: "GENDER" }, "GetDropDownListDataForPosition");
+        GetDropDownList("#supervisorForWindow", { employeeId: "employeeId" }, "GetDropDownListDataForEmployee");
+
+        $("input[data-val-length-max]").each(function (index, element) {
+            var length = parseInt($(this).attr("data-val-length-max"));
+            $(this).prop("maxlength", length);
+        });
+
+        
+
+        $("#windowUpdate").kendoWindow({
+            actions: ["Minimize", "Maximize", "Close"],
+            width: "850px",
+            title: "修改員工資料",
+            modal: true,
+        });
+
+        
+
+        var validator = $("#windowUpdate").kendoValidator().data("kendoValidator");
+
+        $("#saveBtnInWindow").on("click", function () {
+            debugger
+            if (validator.validate()) {
+                SaveUpdateEmployee();//儲存新增的書
+            }
+        });
+
+
+        $("#deleteBtnInWindow").kendoButton({
+            click: DeleteEmployeeInWindow
+        });
+
+        $("#jobTenuresForWindow").kendoDatePicker({
+            format: "yyyy/MM/dd",
+            dateInput: true
+        });
+
+        $("#birthdayForWindow").kendoDatePicker({
+            format: "yyyy/MM/dd",
+            dateInput: true
+        });
+
+
+        //首頁的新增按鈕
+        $("#addBtnInIndex").kendoButton({
+            click: function (e) {
+                $("#labelId").hide();
+                $("#employeeIDForWindow").hide();
+                $("#saveBtnInWindow").hide();
+                $("#deleteBtnInWindow").hide();
+                $("#windowUpdate").data("kendoWindow").open();
+                $("#windowUpdate").data("kendoWindow").center();
+
+
+            }
+        });
+
+        $("#addBtnInWindow").on("click", function () {
+            if (validator.validate()) {
+                InsertEmployee();//儲存新增
+            }
+        });
+
+
+
+    });
+
+
+    function InsertEmployee(e) {
+        var employee = {
+            EmployeeFirstName: $("#employeeFirstNameForWindow").val(),
+            EmployeeLastName: $("#employeeLastNameForWindow").val(),
+            JobTitleId: $("#positionNameForWindow").data("kendoDropDownList").value(),
+            TitleOfCourtesy: $("#titleOfCourtesyForWindow").val(),
+            HireDate: kendo.toString($("#jobTenuresForWindow").data("kendoDatePicker").value(), 'yyyy/MM/dd'),
+            BirthDate: kendo.toString($("#birthdayForWindow").data("kendoDatePicker").value(), 'yyyy/MM/dd'),
+            Country: $("#countryForWindow").data("kendoDropDownList").value(),
+            City: $("#cityForWindow").data("kendoDropDownList").value(),
+            Address: $("#addressForWindow").val(),
+            Phone: $("#phoneNumberForWindow").val(),
+            GenderId: $("#genderForWindow").data("kendoDropDownList").value(),
+            ManagerId: $("#supervisorForWindow").data("kendoDropDownList").value(),
+            MonthlyPayment: $("#monthlySalaryForWindow").val(),
+            YearlyPayment: $("#yearlySalaryForWindow").val()
+        }
+
+        var insertResponse = function (response) {
+
+
+            alert("新增成功");
+            $("#employeeFirstNameForWindow").val("");
+            $("#employeeLastNameForWindow").val("");
+            $("#positionNameForWindow").data("kendoDropDownList").select(0);
+            $("#titleOfCourtesyForWindow").val("");
+            $("#jobTenuresForWindow").data("kendoDatePicker").value(new Date());
+            $("#birthdayForWindow").data("kendoDatePicker").value(new Date());
+            $("#countryForWindow").data("kendoDropDownList").select(0);
+            $("#cityForWindow").data("kendoDropDownList").select(0);
+            $("#addressForWindow").val("");
+            $("#phoneNumberForWindow").val("");
+            $("#genderForWindow").data("kendoDropDownList").select(0);
+            $("#supervisorForWindow").data("kendoDropDownList").select(0);
+            $("#monthlySalaryForWindow").val("");
+            $("#yearlySalaryForWindow").val("");
+
+        }
+
+        Callajax("POST", "InsertEmployee", employee, false, insertResponse)
+    }
+
+
+
+
+
+    function SearchEmployee(e) {
+
+        if ($("#employeeGrid").data("kendoGrid")) {
+            //Grid is initialized destroy原本有的grid
+            $("#employeeGrid").kendoGrid('destroy').empty();
+        }
+
+
+        var employeeSearch = {
+            EmployeeId: $('#employeeID').val(),
+            EmployeeName: $('#employeeName').val(),
+            JobTitleId: $("#positionName").data("kendoDropDownList").value(),
+            HireDateEnd: kendo.toString($("#jobTenureEnd").data("kendoDatePicker").value(), "yyyy/MM/dd"),
+            HireDateStart: kendo.toString($("#jobTenuresStart").data("kendoDatePicker").value(), "yyyy/MM/dd")
+        }
+
+        $("#employeeGrid").kendoGrid({
+
+
+            dataSource: {
+                transport: {
+                    read: {
+                        url: "SearchEmployee",
+                        data: employeeSearch,
+                        type: "POST",
+                        dataType: "json"
+                    }
+                },
+                pageSize: 2,
+            },
+            sortable: true,
+            pageable: {
+                input: true,
+                numeric: false
+            },
+            noRecords: true,
+
+
+
+            columns: [
+               { field: "EmployeeId", title: "編號", width: "10%" },
+               {
+                   field: "EmployeeFirstName", title: "姓名", width: "15%",
+                   template: "#= EmployeeFirstName # #= EmployeeLastName #"
+               },
+               
+               {
+                   field: "JobTitle", title: "職稱", width: "15%",
+                   template: "#= JobTitleId+'-'+JobTitle #"
+               },
+               { field: "HireDate", title: "任職日期", width: "15%" },
+               { field: "Gender", title: "性別", width: "10%" },
+               { field: "Age", title: "年齡", width: "10%" },
+
+
+               { command: { text: "修改", click: ShowEmployeeData }, title: " ", width: "120px" },
+                { command: { text: "刪除", click: DeleteEmployeeinGrid }, title: " ", width: "120px" }
+            ]
+        })
+    }
+
+    function GetDropDownList(id, data, url) {
+        $(id).kendoDropDownList({
+            dataSource: {
+                transport: {
+                    read: {
+                        url: url,
+                        data:data,
+                        type: "post",
+                        dataType: "json"
+                    }
+                }
+            },
+            dataTextField: "Text",
+            dataValueField: "Value",
+            index: 0,
+            optionLabel: {
+                Text: "-- Please select --",
+                Value: ""
+            }
+        });
+    }
+
+    function ShowEmployeeData(e) {
+
+        e.preventDefault();
+        var target = $(e.target).closest("tr");
+        var targetObject = $("#employeeGrid").data("kendoGrid").dataItem(target);
+        var employeeID = targetObject.EmployeeId;
+        var showEmployeeResponse = function (response) {
+            if (response == "EmployeeNotExist") {
+                alert("EmployeeNotExist");
+            } else {
+                $("#windowUpdate").data("kendoWindow").open();
+                $("#windowUpdate").data("kendoWindow").center();
+                $("#employeeIDForWindow").val(response[0].EmployeeId);
+                $("#employeeFirstNameForWindow").val(response[0].EmployeeFirstName);
+                $("#employeeLastNameForWindow").val(response[0].EmployeeLastName);
+                $("#positionNameForWindow").data("kendoDropDownList").value(response[0].JobTitleId);
+                $("#titleOfCourtesyForWindow").val(response[0].TitleOfCourtesy);
+                $("#jobTenuresForWindow").data("kendoDatePicker").value(response[0].HireDate);
+                $("#birthdayForWindow").data("kendoDatePicker").value(response[0].BirthDate);
+                $("#countryForWindow").data("kendoDropDownList").value(response[0].Country);
+                $("#cityForWindow").data("kendoDropDownList").value(response[0].City);
+                $("#addressForWindow").val(response[0].Address);
+                $("#phoneNumberForWindow").val(response[0].Phone);
+                $("#genderForWindow").data("kendoDropDownList").value(response[0].GenderId);
+                $("#supervisorForWindow").data("kendoDropDownList").value(response[0].ManagerId);
+                $("#monthlySalaryForWindow").val(response[0].MonthlyPayment);
+                $("#yearlySalaryForWindow").val(response[0].YearlyPayment);
+
+            }
+        }
+        
+        var data2 = {
+            "EmployeeId": employeeID
+        };
+        Callajax("POST", "/Employee/GetEmployeeData", data2, false, showEmployeeResponse)
+    }
+
+    function SaveUpdateEmployee(e) {
+       
+            var employee = {
+                EmployeeId: $("#employeeIDForWindow").val(),
+                EmployeeFirstName: $("#employeeFirstNameForWindow").val(),
+                EmployeeLastName: $("#employeeLastNameForWindow").val(),
+                JobTitleId: $("#positionNameForWindow").data("kendoDropDownList").value(),
+                TitleOfCourtesy: $("#titleOfCourtesyForWindow").val(),
+
+                HireDate: kendo.toString($("#jobTenuresForWindow").data("kendoDatePicker").value(), 'yyyy/MM/dd'),
+                BirthDate: kendo.toString($("#birthdayForWindow").data("kendoDatePicker").value(), 'yyyy/MM/dd'),
+
+                Country: $("#countryForWindow").data("kendoDropDownList").value(),
+                City: $("#cityForWindow").data("kendoDropDownList").value(),
+                Address: $("#addressForWindow").val(),
+                Phone: $("#phoneNumberForWindow").val(),
+                GenderId: $("#genderForWindow").data("kendoDropDownList").value(),
+                ManagerId: $("#supervisorForWindow").data("kendoDropDownList").value(),
+                MonthlyPayment: $("#monthlySalaryForWindow").val(),
+                YearlyPayment: $("#yearlySalaryForWindow").val()
+            }
+
+
+
+            var saveResponse = function (respinse) {
+                alert("修改成功");
+                $("#windowUpdate").data("kendoWindow").close();
+            }
+
+            Callajax("POST", "UpdateEmployee", employee, true, saveResponse)
+       
+        
+        
+    }
+
+    function Calculateyearlysalary(val) {
+        $("#yearlySalaryForWindow").prop("value", val*14);
+    }
+
+
+
+    function DeleteEmployeeinGrid(e) {
+        e.preventDefault();
+        var target = $(e.target).closest("tr");
+        var targetObject = $("#employeeGrid").data("kendoGrid").dataItem(target);
+
+        var statu = confirm("確定要刪除這筆資料嗎?");
+        if (!statu) { return false; }
+
+        var deleteResponse = function (response) {
+            if (response == "canBeDelete") {
+                //read
+                $("#employeeGrid").data("kendoGrid").removeRow(target);
+                alert("刪除成功");
+                SearchEmployee();
+            } else {
+                alert("刪除失敗，因為該員工不存在");
+                SearchEmployee();
+            }
+
+        }
+        
+        Callajax("POST", "DeleteEmployee", "employeeid=" + targetObject.EmployeeId, true, deleteResponse)
+
+    }
+
+    function DeleteEmployeeInWindow(e) {
+
+        e.preventDefault();
+        var employeeid = $("#employeeIDForWindow").val();
+        var statu = confirm("確定要刪除這筆資料嗎?");
+        if (!statu) { return false; }
+        var deleteReponse = function (response) {
+            if (response == "canBeDelete") {
+                alert("刪除成功");
+                $("#windowUpdate").data("kendoWindow").close();
+                SearchEmployee();
+            } else{
+                alert("刪除失敗，因為該員工不存在");
+                $("#windowUpdate").data("kendoWindow").close();
+                SearchEmployee();
+            }
+
+        }
+        Callajax("POST", "DeleteEmployee", "employeeid=" + employeeid, true, deleteReponse)
+    }
+
+
+    function Callajax(type, url, data, async, successCallBack) {
+        //var data2 = {
+        //    "EmployeeId": data
+        //};
+        $.ajax({
+            type: type,
+            url: url,
+            data: data,
+            async: async,//同步
+            dataType: "json",
+            success: function (response) {
+                successCallBack(response);
+            }, error: function (error) {
+                alert("系統發生錯誤!!!");
+            }
+        });
+    }
+
+
+
+</script>

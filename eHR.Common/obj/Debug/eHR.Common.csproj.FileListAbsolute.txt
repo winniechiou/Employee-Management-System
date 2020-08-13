@@ -1,0 +1,36 @@
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\eHR.Common\obj\Debug\eHR.Common.csprojResolveAssemblyReference.cache
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\eHR.Common\bin\Debug\eHR.Common.dll
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\eHR.Common\bin\Debug\eHR.Common.pdb
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\eHR.Common\obj\Debug\eHR.Common.dll
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\eHR.Common\obj\Debug\eHR.Common.pdb
+C:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Common\bin\Debug\log4net.dll
+C:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Common\bin\Debug\log4net.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Common\bin\Debug\eHR.Common.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Common\bin\Debug\eHR.Common.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Common\bin\Debug\log4net.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Common\bin\Debug\log4net.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Common\obj\Debug\eHR.Common.csprojResolveAssemblyReference.cache
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Common\obj\Debug\eHR.Common.csproj.CoreCompileInputs.cache
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Common\obj\Debug\eHR.Common.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Common\obj\Debug\eHR.Common.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Common\bin\Debug\eHR.Common.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Common\bin\Debug\eHR.Common.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Common\bin\Debug\log4net.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Common\bin\Debug\log4net.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Common\obj\Debug\eHR.Common.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Common\obj\Debug\eHR.Common.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Common\obj\Debug\eHR.Common.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Common\bin\Debug\eHR.Common.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Common\bin\Debug\eHR.Common.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Common\bin\Debug\log4net.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Common\bin\Debug\log4net.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Common\obj\Debug\eHR.Common.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Common\obj\Debug\eHR.Common.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Common\obj\Debug\eHR.Common.pdb
+C:\Users\Queye\Desktop\NewHR!\eHR.Common\bin\Debug\eHR.Common.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Common\bin\Debug\eHR.Common.pdb
+C:\Users\Queye\Desktop\NewHR!\eHR.Common\bin\Debug\log4net.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Common\bin\Debug\log4net.xml
+C:\Users\Queye\Desktop\NewHR!\eHR.Common\obj\Debug\eHR.Common.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\NewHR!\eHR.Common\obj\Debug\eHR.Common.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Common\obj\Debug\eHR.Common.pdb

@@ -1,0 +1,136 @@
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\obj\Debug\eHR.Service.csprojResolveAssemblyReference.cache
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\bin\Debug\eHR.Service.dll
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\bin\Debug\eHR.Service.pdb
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\bin\Debug\eHR.Common.dll
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\bin\Debug\eHR.Dao.dll
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\bin\Debug\eHR.Model.dll
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\bin\Debug\eHR.Common.pdb
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\bin\Debug\eHR.Dao.pdb
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\bin\Debug\eHR.Model.pdb
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\obj\Debug\eHR.Service.dll
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\obj\Debug\eHR.Service.pdb
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\bin\Debug\System.Web.Mvc.dll
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\bin\Debug\System.Web.Mvc.xml
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\bin\Debug\Microsoft.Web.Infrastructure.xml
+c:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\bin\Debug\log4net.dll
+C:\Users\kenny\documents\visual studio 2015\Projects\NewHR\eHR.Service\bin\Debug\log4net.xml
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\eHR.Service\bin\Debug\Common.Logging.Core.dll
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\eHR.Service\bin\Debug\Common.Logging.dll
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\eHR.Service\bin\Debug\Spring.Core.dll
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\eHR.Service\bin\Debug\Common.Logging.pdb
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\eHR.Service\bin\Debug\Common.Logging.xml
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\eHR.Service\bin\Debug\Common.Logging.Core.pdb
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\eHR.Service\bin\Debug\Common.Logging.Core.xml
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\eHR.Service\bin\Debug\Spring.Core.pdb
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\eHR.Service\bin\Debug\Spring.Core.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\eHR.Service.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\eHR.Service.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.Core.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\eHR.Common.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\eHR.Dao.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\eHR.Model.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\Spring.Core.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\System.Web.Mvc.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\log4net.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\eHR.Common.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\eHR.Dao.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\eHR.Model.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.Core.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.Core.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\Spring.Core.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\Spring.Core.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\System.Web.Mvc.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\log4net.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\obj\Debug\eHR.Service.csprojResolveAssemblyReference.cache
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\obj\Debug\eHR.Service.csproj.CoreCompileInputs.cache
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\obj\Debug\eHR.Service.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\eHR.Service\obj\Debug\eHR.Service.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Service.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Service.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.Core.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Common.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Dao.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Model.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\Spring.Core.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\log4net.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Common.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Dao.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Model.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.Core.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\Spring.Core.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\Spring.Core.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\log4net.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\obj\Debug\eHR.Service.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\obj\Debug\eHR.Service.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\eHR.Service\obj\Debug\eHR.Service.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Service.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Service.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.Core.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Common.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Dao.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Model.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\Spring.Core.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\log4net.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Common.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Dao.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\eHR.Model.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\Common.Logging.Core.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\Spring.Core.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\Spring.Core.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\log4net.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\obj\Debug\eHR.Service.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\obj\Debug\eHR.Service.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\eHR.Service\obj\Debug\eHR.Service.pdb
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\eHR.Service.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\eHR.Service.pdb
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\Common.Logging.Core.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\Common.Logging.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\eHR.Common.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\eHR.Dao.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\eHR.Model.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\Spring.Core.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\log4net.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\eHR.Common.pdb
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\eHR.Dao.pdb
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\eHR.Model.pdb
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\Common.Logging.pdb
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\Common.Logging.xml
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\Common.Logging.Core.xml
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\Spring.Core.pdb
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\Spring.Core.xml
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\log4net.xml
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\obj\Debug\eHR.Service.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\obj\Debug\eHR.Service.dll
+C:\Users\Queye\Desktop\NewHR!\eHR.Service\obj\Debug\eHR.Service.pdb

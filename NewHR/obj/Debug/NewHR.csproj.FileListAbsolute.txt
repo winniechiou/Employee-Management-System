@@ -1,0 +1,426 @@
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\obj\Debug\NewHR.csprojResolveAssemblyReference.cache
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\ApplicationInsights.config
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\roslyn\csc.exe
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\roslyn\vbc.exe
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\roslyn\VBCSCompiler.exe
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\NewHR.dll.config
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\NewHR.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\NewHR.pdb
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\eHR.Common.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\eHR.Model.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\eHR.Service.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\Microsoft.AI.Web.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\Microsoft.ApplicationInsights.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\System.Web.Helpers.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\System.Web.Mvc.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\System.Web.Razor.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\System.Web.Webpages.Deployment.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\System.Web.Webpages.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\System.Web.Webpages.Razor.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\eHR.Common.pdb
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\eHR.Model.pdb
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\eHR.Service.pdb
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\Microsoft.AI.Web.xml
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\Microsoft.ApplicationInsights.xml
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\System.Web.Razor.xml
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\System.Web.Webpages.xml
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\System.Web.Webpages.Deployment.xml
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\System.Web.Webpages.Razor.xml
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\System.Web.Helpers.xml
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\System.Web.Mvc.xml
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\zh-Hant\System.Web.Razor.resources.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\zh-Hant\System.Web.Webpages.resources.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\zh-Hant\System.Web.Helpers.resources.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\zh-Hant\System.Web.Mvc.resources.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\obj\Debug\NewHR.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\obj\Debug\NewHR.pdb
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\eHR.Dao.dll
+c:\users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\eHR.Dao.pdb
+C:\Users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\log4net.dll
+C:\Users\kenny\documents\visual studio 2015\Projects\NewHR\NewHR\bin\log4net.xml
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Common.Logging.Core.dll
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Common.Logging.dll
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Spring.Core.dll
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Spring.Web.dll
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Spring.Web.Mvc5.dll
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Common.Logging.pdb
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Common.Logging.xml
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Common.Logging.Core.pdb
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Common.Logging.Core.xml
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Spring.Core.pdb
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Spring.Core.xml
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Spring.Web.pdb
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Spring.Web.xml
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Spring.Web.Mvc5.pdb
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Spring.Web.Mvc5.xml
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Newtonsoft.Json.dll
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\System.Net.Http.Formatting.dll
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\System.Web.Http.dll
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\Newtonsoft.Json.xml
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\System.Net.Http.Formatting.xml
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\System.Web.Http.xml
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\System.Web.Http.WebHost.dll
+C:\Users\kenny\Documents\Visual Studio 2015\Projects\NewHR\NewHR\bin\System.Web.Http.WebHost.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\ApplicationInsights.config
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\roslyn\csc.exe
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\roslyn\vbc.exe
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\NewHR.dll.config
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\NewHR.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\NewHR.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Common.Logging.Core.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Common.Logging.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\eHR.Common.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\eHR.Model.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\eHR.Service.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Microsoft.AI.DependencyCollector.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Microsoft.AI.Web.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Microsoft.AI.WindowsServer.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Microsoft.ApplicationInsights.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Newtonsoft.Json.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Spring.Core.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Spring.Web.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Spring.Web.Mvc5.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Net.Http.Formatting.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Helpers.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Http.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Http.WebHost.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Mvc.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Razor.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Webpages.Deployment.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Webpages.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Webpages.Razor.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\log4net.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\eHR.Dao.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\eHR.Common.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\eHR.Model.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\eHR.Service.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Common.Logging.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Common.Logging.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Common.Logging.Core.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Common.Logging.Core.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Microsoft.AI.DependencyCollector.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Microsoft.AI.Web.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Microsoft.AI.WindowsServer.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Microsoft.ApplicationInsights.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Newtonsoft.Json.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Spring.Core.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Spring.Core.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Spring.Web.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Spring.Web.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Spring.Web.Mvc5.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\Spring.Web.Mvc5.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Net.Http.Formatting.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Http.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Http.WebHost.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Razor.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Webpages.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Webpages.Deployment.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Webpages.Razor.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Helpers.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\System.Web.Mvc.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\log4net.xml
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\eHR.Dao.pdb
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Webpages.resources.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\obj\Debug\NewHR.csprojResolveAssemblyReference.cache
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\obj\Debug\NewHR.csproj.CoreCompileInputs.cache
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\obj\Debug\NewHR.dll
+D:\Desktop\work7元智\Course5_BackEnd\Section1\Sample\Spring\NewHR\NewHR\obj\Debug\NewHR.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\ApplicationInsights.config
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\roslyn\csc.exe
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\roslyn\vbc.exe
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\NewHR.dll.config
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\NewHR.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\NewHR.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Common.Logging.Core.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Common.Logging.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\eHR.Common.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\eHR.Model.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\eHR.Service.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.Web.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Newtonsoft.Json.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Spring.Core.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Spring.Web.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Spring.Web.Mvc5.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Net.Http.Formatting.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Helpers.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Http.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Http.WebHost.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Razor.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Webpages.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\log4net.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\eHR.Dao.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\eHR.Common.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\eHR.Model.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\eHR.Service.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Common.Logging.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Common.Logging.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Common.Logging.Core.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Common.Logging.Core.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.Web.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Newtonsoft.Json.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Spring.Core.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Spring.Core.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Spring.Web.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Spring.Web.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Spring.Web.Mvc5.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\Spring.Web.Mvc5.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Net.Http.Formatting.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Http.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Http.WebHost.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Razor.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Webpages.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Helpers.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\log4net.xml
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\eHR.Dao.pdb
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\obj\Debug\NewHR.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\obj\Debug\NewHR.dll
+C:\Users\Queye\Desktop\HR\Spring\NewHR\NewHR\obj\Debug\NewHR.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\ApplicationInsights.config
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\roslyn\csc.exe
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\roslyn\vbc.exe
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\NewHR.dll.config
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\NewHR.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\NewHR.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Common.Logging.Core.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Common.Logging.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\eHR.Common.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\eHR.Model.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\eHR.Service.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.Web.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Newtonsoft.Json.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Spring.Core.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Spring.Web.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Spring.Web.Mvc5.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Net.Http.Formatting.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Helpers.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Http.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Http.WebHost.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Razor.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Webpages.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\log4net.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\eHR.Dao.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\eHR.Common.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\eHR.Model.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\eHR.Service.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Common.Logging.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Common.Logging.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Common.Logging.Core.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Common.Logging.Core.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.Web.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Newtonsoft.Json.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Spring.Core.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Spring.Core.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Spring.Web.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Spring.Web.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Spring.Web.Mvc5.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\Spring.Web.Mvc5.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Net.Http.Formatting.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Http.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Http.WebHost.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Razor.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Webpages.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Helpers.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\log4net.xml
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\eHR.Dao.pdb
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\obj\Debug\NewHR.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\obj\Debug\NewHR.dll
+C:\Users\Queye\Desktop\新人訓\HR\Spring\NewHR\NewHR\obj\Debug\NewHR.pdb
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\ApplicationInsights.config
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\roslyn\csc.exe
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\roslyn\vbc.exe
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\NewHR.dll.config
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\NewHR.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\NewHR.pdb
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Common.Logging.Core.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Common.Logging.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\eHR.Common.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\eHR.Model.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\eHR.Service.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Microsoft.AI.Web.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Newtonsoft.Json.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Spring.Core.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Spring.Web.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Spring.Web.Mvc5.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Net.Http.Formatting.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Helpers.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Http.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Http.WebHost.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Mvc.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Razor.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Webpages.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Webpages.Razor.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\log4net.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\eHR.Dao.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\eHR.Common.pdb
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\eHR.Model.pdb
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\eHR.Service.pdb
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Common.Logging.pdb
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Common.Logging.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Common.Logging.Core.pdb
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Common.Logging.Core.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Microsoft.AI.Web.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Newtonsoft.Json.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Spring.Core.pdb
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Spring.Core.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Spring.Web.pdb
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Spring.Web.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Spring.Web.Mvc5.pdb
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\Spring.Web.Mvc5.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Net.Http.Formatting.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Http.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Http.WebHost.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Razor.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Webpages.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Webpages.Razor.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Helpers.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\System.Web.Mvc.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\log4net.xml
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\eHR.Dao.pdb
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\obj\Debug\NewHR.csprojResolveAssemblyReference.cache
+C:\Users\Queye\Desktop\NewHR!\NewHR\obj\Debug\NewHR.dll
+C:\Users\Queye\Desktop\NewHR!\NewHR\obj\Debug\NewHR.pdb

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.net">
+
+  <object id="EmployeeController"  type="NewHR.Controllers.EmployeeController,NewHR" singleton="false">
+    <property name="codeService" ref="CodeService" />
+    <property name="employeeService" ref="EmployeeService" />
+  </object>
+
+  <object id="CodeService" type="eHR.Service.CodeService,eHR.Service">
+    <property name="codeDao" ref="CodeDao" />
+  </object>
+
+  <object id="EmployeeService" type="eHR.Service.EmployeeService,eHR.Service">
+    <property name="employeeDao" ref="EmployeeDao" />
+  </object>  
+  
+  <object id="CodeDao" type="eHR.Dao.CodeDao,eHR.Dao"/>
+  <object id="EmployeeDao" type="eHR.Dao.EmployeeDao,eHR.Dao"/>
+
+</objects>
